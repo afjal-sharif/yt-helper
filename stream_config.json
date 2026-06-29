@@ -1,0 +1,23 @@
+{
+    "channel_name": "IBD",
+    "company_name": "INDEXBD",
+    "bot_token": "",
+    "chat_id": "",
+    "video_bitrate": "4000k",
+    "audio_bitrate": "128k",
+    "fps": "60",
+    "resolution": "1920x1080",
+    "hw_accel": "none",
+    "outputs": [],
+    "source": "clip_38bdd911_1.mp4",
+    "overlays": {
+        "logo": false,
+        "banner": true,
+        "qr": false,
+        "text": true,
+        "timestamp": false,
+        "watermark": false
+    },
+    "youtube_key": "3svt-7uye-wbyb-x5mg-6hj7",
+    "facebook_key": "FB-1006699208772785-0-Ab4-Fd2KgKMv8MLtwLEELju7"
+}
